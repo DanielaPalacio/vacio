@@ -1,5 +1,5 @@
-Holaaa 
+Estados de Git
 
-Si
-No
-Porque?
+- **PrimerEstado Working_Directory** :smiley:
+- **SegundoEstado Staging_Area** :slightly_smiling_face:
+- **TercerEstado Local_Repository** :wink:
